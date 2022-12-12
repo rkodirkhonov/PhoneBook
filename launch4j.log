@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	D:\2022 Fall\PhoneBook_java\project\PhoneBook.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\2022 Fall\PhoneBook_java\project\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.007.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk1.8.0_202
+Substitute:	PATH = C:\windows\System32\wbem\;C:\windows\System32\wbem\;C:\windows\System32\wbem\;C:\WINDOWS\System32;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Roaming\npm;C:\IntellijIDEA\IntelliJ IDEA Community Edition 2019.3.5\bin;;;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_202\bin
+JRE paths:	C:\Program Files\Java\jdk1.8.0_202;C:\windows\System32\wbem\;C:\windows\System32\wbem\;C:\windows\System32\wbem\;C:\WINDOWS\System32;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Users\user\anaconda\python.exe;C:\Users\user\AppData\Local\Microsoft\WindowsApps;C:\Users\user\AppData\Roaming\npm;C:\IntellijIDEA\IntelliJ IDEA Community Edition 2019.3.5\bin;;;C:\Users\user\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jdk1.8.0_202\bin
+Check launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe (OK)
+Version string: 1.008.000_202 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk1.8.0_202\bin\javaw.exe
+Launcher args:	-jar "D:\2022 Fall\PhoneBook_java\project\PhoneBook.exe"
+Args length:	56/32768 chars
+Exit code:	0
